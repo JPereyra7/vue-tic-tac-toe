@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/sJ43pknV)
 # Vue3 Tic Tac Toe Game
 
 ![Screenshot](https://github.com/JPereyra7/vue-tic-tac-toe/blob/main/src/assets/tictactoe.png?raw=true)
@@ -8,6 +7,8 @@
 
 
 || Stack ||
+
+[![My Skills](https://skillicons.dev/icons?i=vue,ts,vite,css)](https://skillicons.dev)
 
 
 <details>
