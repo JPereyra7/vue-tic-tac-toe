@@ -3,6 +3,17 @@
 
 ![Screenshot](https://github.com/JPereyra7/vue-tic-tac-toe/blob/main/src/assets/tictactoe.png?raw=true)
 
+
+🔗 Url: https://tictoctactitoctactictoktoe.netlify.app/
+
+
+|| Stack ||
+
+
+<details>
+
+<summary>Teachers requirements</summary>
+
 ## Betyg G
 
 - Kunna ange spelarnamn för X respektive O
@@ -18,3 +29,5 @@
 - Kunna visa poängstatistiken
 - Kunna stänga webbläsaren och komma tillbaka där spelet avbröts
 - Kunna nollställa statistik och börja om med nya spelare
+
+</details>
