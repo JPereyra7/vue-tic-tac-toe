@@ -1,6 +1,19 @@
-# Inlämningsuppgift Tre-i-rad
+# Vue3 Tic Tac Toe Game
 
-Denna mall innehåller ett tomt vue-projekt baserat på typescript. Er uppgift är att skapa spelet tre-i-rad med hjälp av denna mall. Eftersom ni inte har någonting att utgå ifrån så har ni fria händer att skapa just er unika lösning.
+![Screenshot](https://github.com/JPereyra7/vue-tic-tac-toe/blob/main/src/assets/tictactoe.png?raw=true)
+
+
+🔗 Url: https://tictoctactitoctactictoktoe.netlify.app/
+
+
+|| Stack ||
+
+[![My Skills](https://skillicons.dev/icons?i=vue,ts,vite,css)](https://skillicons.dev)
+
+
+<details>
+
+<summary>Teachers requirements</summary>
 
 ## Betyg G
 
@@ -17,3 +30,5 @@ Denna mall innehåller ett tomt vue-projekt baserat på typescript. Er uppgift �
 - Kunna visa poängstatistiken
 - Kunna stänga webbläsaren och komma tillbaka där spelet avbröts
 - Kunna nollställa statistik och börja om med nya spelare
+
+</details>

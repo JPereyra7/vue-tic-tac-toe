@@ -29,6 +29,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(34, 34, 34, 0.663)), url(https://cdn.pixabay.com/photo/2016/11/23/15/23/cosmos-1853491_1280.jpg);
 }
 
 h1 {
